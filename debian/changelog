@@ -1,3 +1,9 @@
+rtmpdump (2.4+20151223.gitfa8646d.1-deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Thu, 10 Sep 2026 20:45:20 +0800
+
 rtmpdump (2.4+20151223.gitfa8646d.1-deepin1) unstable; urgency=medium
 
   * Rebuild
